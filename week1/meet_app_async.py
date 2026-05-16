@@ -1,9 +1,9 @@
-import asyncio 									 #비동기
+import asyncio 									 								#비동기
 import sys
 
 meetings = []
 
-async def main():								#비동기
+async def main():																#비동기
 	print("==============================")
 	print("   소중한 만남 기록기 (CLI)   ")
 	print("==============================")
@@ -17,8 +17,8 @@ async def main():								#비동기
 			time = input(" 언제 만났어요? (예: 2026-05-16): ").strip()
 			if name and time :
 				
-				print("\n 데이터베이스에 저장 중입니다...")	#비동기
-				await asyncio.sleep(2)				#비동기
+				print("\n 데이터베이스에 저장 중입니다...")							#비동기
+				await asyncio.sleep(2)											#비동기
 
 
 				meetings.append({"name":name, "time":time})
@@ -44,5 +44,5 @@ async def main():								#비동기
 
 
 if __name__ == "__main__":
-	asyncio.run(main())							#비동기
+	asyncio.run(main())															#비동기
 
