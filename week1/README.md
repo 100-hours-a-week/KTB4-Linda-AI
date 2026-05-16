@@ -5,11 +5,10 @@
 1. CLI(Command Line Interface) 프로그램 제작
 * 콘솔 형태의 프로그램은 어떠한 종류라도 상관 없다. 
 * 파이썬의 input() 함수와 print() 함수를 사용하여 작성한다(input()은 선택)
-
-### 파일명 
-meet_app.py
+* 파일명 : meet_app.py
 
 
 ## 1주차 과제 (2)
 * CLI 비동기 처리 가능하도록 리팩토링 aync await 적용해보기
 * 예시 - (네트워킹) api 호출 / api 10번
+* 파일명 : meet_app_async.py
