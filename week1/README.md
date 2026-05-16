@@ -11,5 +11,5 @@ meet_app.py
 
 
 ## 1주차 과제 (2)
-CLI 비동기 처리 가능하도록 리팩토링 aync await 적용해보기
-api 호출 10번
+* CLI 비동기 처리 가능하도록 리팩토링 aync await 적용해보기
+* 예시 - (네트워킹) api 호출 / api 10번
