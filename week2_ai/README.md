@@ -28,3 +28,5 @@ gemini 대화 기록 : https://share.google/aimode/vURAGZG1Ov0MaYGLo
 아직 터미널도 익숙하지 않아서 하나하나 검색하며 따라가고 있다...
 과제를 제출 후, 하나씩 코드를 뜯어보며 공부할 예정이다.
 (26.05.24)
+
+<img src="img/screen.png">
