@@ -25,10 +25,10 @@ gemini 대화 기록 : https://share.google/aimode/vURAGZG1Ov0MaYGLo
   
 을 한 파일에 작성한 뒤, ai에게 코드를 주고 
 
-* AI 모델 서빙
-* 데이터베이스 적용하기
+* AI 모델 서빙 -- ollama llama3.2
+* 데이터베이스 적용하기 - -sqlite
 * 구조 개선하기(예: Route - Controller - Model 패턴을 적용)
-* (선택) HTML/CSS/S나 스트림릿으로 프론트엔드 만들기
+* (선택) HTML/CSS/나 스트림릿으로 프론트엔드 만들기
 
 를 맡겼다.
 
